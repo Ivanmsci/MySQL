@@ -165,8 +165,4 @@ INSERT INTO `stations` (name) VALUES
 ("Cuatro Caminos"),
 ("Isabel la Católica"),
 ("Nezahualcóyotl"),
-("Merced"),
--- A partir de aquí serán retos para eliminar registros
-("Merced"),
-("Lázaro de Guerrero"),
-("Benito Cárdenas");
+("Merced");
